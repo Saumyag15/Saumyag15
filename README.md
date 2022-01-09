@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saumyag15
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python data structure
+- 🌱 I’m currently learning Amazon Web Services
 - 📫 How to reach me saumyag360@gmai.com
 
 <!---
