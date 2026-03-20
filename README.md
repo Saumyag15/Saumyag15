@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Saumyag15
 - 🏢 I'm Working in Optum, as a software dveloper
-- 🌱 I’m currently learning React Native
 - 📫 How to reach me saumyag360@gmai.com
 
 <!---
